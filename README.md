@@ -15,7 +15,6 @@ Ce site est hébergé gratuitement via GitHub Pages.
 ## 🔗 Accès rapide
 Pour voir le site en ligne après déploiement :  
 ```
-https://votre_nom.github.io/
+https://joyezaza.github.io/
 ```
 
-*Remplacez `votre_nom` par votre nom d'utilisateur GitHub.*
